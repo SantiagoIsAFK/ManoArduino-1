@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: c13cd3797a145484085cce3d46d4cbdc
+  - enabled: 1
+    path: Assets/Scenes/Test/SG_Test.unity
+    guid: 5c72b774db1442b4c831b96ece6377a5
+  - enabled: 1
+    path: Assets/Scenes/Test/CG_Test.unity
+    guid: fefd33b07f222784c8db3b814b404391
+  - enabled: 1
+    path: Assets/Scenes/Test/FMS_Piano_Test.unity
+    guid: 6e5e263285c642743980a49682ec4342
+  - enabled: 1
+    path: Assets/Scenes/Test/TW1_Test.unity
+    guid: cb99e506c6c17474c8cc546d482249a8
+  m_configObjects: {}
